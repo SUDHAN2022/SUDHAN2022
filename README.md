@@ -6,7 +6,7 @@ Aspiring Data Scientist and Data Analyst
 - Engineeing @VSBCETC
 
 <video width="370" height="290" controls>
-  <source src="https://raw.githubusercontent.com/<username>/<repo>/main/videos/GITHUB.mp4" type="video/mp4">
+  <source src="https://youtu.be/aCY4E1ZCrwo?si=OFnfbCmaTAxRT04m" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
