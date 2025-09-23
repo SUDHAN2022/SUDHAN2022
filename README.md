@@ -5,12 +5,6 @@ Aspiring Data Scientist and Data Analyst
 - 🌱 I’m currently pursuing Artifical Intelligence and Data Science
 - Engineeing @VSBCETC
 
-<video width="370" height="290" controls>
-  <source src="https://youtu.be/aCY4E1ZCrwo?si=OFnfbCmaTAxRT04m" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
