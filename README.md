@@ -3,7 +3,7 @@
 Aspiring Data Scientist and Data Analyst
 - 🔭 Here's my [portfolio](https://sudhanportfolio.framer.wiki/)                                                 
 - 🌱 I’m currently pursuing Artifical Intelligence and Data Science
-- Engineeing @VSB
+- Engineeing @VSBCETC
 
 <video width="370" height="290" controls>
   <source src="videos/GITHUB.mp4" type="video/mp4">
