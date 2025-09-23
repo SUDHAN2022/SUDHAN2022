@@ -5,7 +5,7 @@ Aspiring Data Scientist and Data Analyst
 - 🌱 I’m currently pursuing Artifical Intelligence and Data Science
 - Engineeing @VSBCETC
 
-<video src="https://user-images.githubusercontent.com/your-video-url.mp4"></video>
+<video src="C:\Users\Sudhan\OneDrive\Videos\GITHUB.mp4"></video>
 
 
 ### I code in
